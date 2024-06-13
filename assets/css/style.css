@@ -11,7 +11,7 @@
 }
 
 .ul-menu-color-resume {
-    background-color: #1194d1;
+    background-color: #0366e8;
 }
 
 .ul-menu-color-contact {
@@ -108,3 +108,9 @@ header {
     letter-spacing: 2px;
 }
 
+/*------------------- hover.css --------------------*/
+
+.hvr-sweep-to-bottom:before {
+    background-color: rgba(0,0,0.2);
+    height: 120px;
+}
