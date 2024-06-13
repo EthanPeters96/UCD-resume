@@ -178,3 +178,7 @@ footer .cv-pdf i:hover {
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
+
+.social-links li a i:hover {
+    background: #0366e8;
+}
