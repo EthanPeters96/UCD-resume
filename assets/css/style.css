@@ -182,3 +182,7 @@ footer .cv-pdf i:hover {
 .social-links li a i:hover {
     background: #0366e8;
 }
+
+#footer-details {
+    padding: 20px;
+}
